@@ -16,19 +16,15 @@ public class TestMaximumGenerics {
 		System.out.println("Test case 1.1");
 		// Test Case 1.1 maximum number at first position 
 		System.out.println("Maximum among 3 No : "+maxInteger(5, 2, 1));
-		System.out.println("Maximum among 3 No : "+maxInteger(6, 1, 2));
-		System.out.println("Maximum among 3 No : "+maxInteger(3, 1, 1));
 		
 		System.out.println("Test case 1.2");
 		// Test Case 1.2 maximum number at second position 
-		System.out.println("Maximum among 3 No : "+maxInteger(2, 4, 1));
-		System.out.println("Maximum among 3 No : "+maxInteger(1, 5, 2));
+		
 		System.out.println("Maximum among 3 No : "+maxInteger(1, 6, 1));
 		
 		System.out.println("Test case 1.3");
 		// Test Case 1.1 maximum number at third position 
-		System.out.println("Maximum among 3 No : "+maxInteger(2, 1, 6));
-		System.out.println("Maximum among 3 No : "+maxInteger(1, 2, 7));
+		
 		System.out.println("Maximum among 3 No : "+maxInteger(1, 1, 6));
 		
 		
